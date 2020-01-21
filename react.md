@@ -244,14 +244,24 @@ HTML5的History接口，History对象是一个底层接口，不继承于任何�
 参考文档：
 
 [react生命周期详解](https://juejin.im/post/5ddcea315188256eaa0ebcf5)
+
 [React diff](https://zhuanlan.zhihu.com/p/20346379)
+
 [react 16新特性](https://zhuanlan.zhihu.com/p/52016989)
+
 [react fiber1](https://www.cxymsg.com/guide/fiber.html#%E4%BB%8E-react-%E5%85%83%E7%B4%A0%E5%88%B0-fiber-%E8%8A%82%E7%82%B9)
+
 [react fiber2](https://github.com/HuJiaoHJ/blog/issues/7#)
+
 [react hooks](https://github.com/brickspert/blog/issues/26)
+
 [react 事件机制](https://toutiao.io/posts/28of14w/preview)
+
 [setState机制1](https://cloud.tencent.com/developer/article/1431167)
+
 [setState机制2](https://imweb.io/topic/5b189d04d4c96b9b1b4c4ed6)
+
 [react-router原理](https://segmentfault.com/a/1190000016435538)
+
 [集合](https://juejin.im/post/5d5f44dae51d4561df7805b4#heading-10)
 
